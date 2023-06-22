@@ -9,9 +9,7 @@
 </blockquote>
 <hr/>
 
-<h2>pipeline<h2>
-<!-- <img src="./imgs/pipeline.png" /> -->
-<hr/>
+
 
 <h2>Detailed Flow-Chart</h2>
 <ul>
